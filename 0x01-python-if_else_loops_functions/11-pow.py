@@ -2,4 +2,4 @@
 
 def pow(a, b):
     ans = a**b
-    return  ans
+    return ans
